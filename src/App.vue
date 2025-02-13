@@ -7,6 +7,7 @@
   </div>
   <div class="main">
     <TheHome />
+    <TheAbout />
   </div>
   <div><TheFooter /></div>
 </template>
@@ -15,6 +16,7 @@
 import NavBar from './components/NavBar.vue'
 import TheHome from './components/HeroSection.vue'
 import TheFooter from './components/TheFooter.vue'
+import TheAbout from './components/TheAbout.vue'
 import BackGround from './components/BackGround.vue'
 </script>
 

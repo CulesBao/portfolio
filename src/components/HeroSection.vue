@@ -53,7 +53,9 @@ const openLink = (url) => {
       </div>
     </div>
     <div class="flex items-center justify-center w-full">
-      <h1 class="text-6xl font-bold">Bao Cules</h1>
+      <div class="my-image">
+        <img src="@/assets/epl.jpg" alt="my-image" class="rounded-full w-80 h-80 " />
+      </div>
     </div>
   </div>
 </template>
